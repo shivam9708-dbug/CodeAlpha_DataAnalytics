@@ -1,0 +1,113 @@
+title,rating,category,price,in_stock
+Sharp Objects,4,Mystery,47.82,True
+"In a Dark, Dark Wood",1,Mystery,19.63,True
+The Past Never Ends,4,Mystery,56.5,True
+A Murder in Time,1,Mystery,16.64,True
+The Murder of Roger Ackroyd (Hercule Poirot #4),4,Mystery,44.1,True
+The Last Mile (Amos Decker #2),2,Mystery,54.21,True
+That Darkness (Gardiner and Renner #1),1,Mystery,13.92,True
+Tastes Like Fear (DI Marnie Rome #3),1,Mystery,10.69,True
+A Time of Torment (Charlie Parker #14),5,Mystery,48.35,True
+A Study in Scarlet (Sherlock Holmes #1),2,Mystery,16.73,True
+Poisonous (Max Revere Novels #3),3,Mystery,26.8,True
+Murder at the 42nd Street Library (Raymond Ambler #1),4,Mystery,54.36,True
+Most Wanted,3,Mystery,35.28,True
+Hide Away (Eve Duncan #20),1,Mystery,11.84,True
+Boar Island (Anna Pigeon #19),3,Mystery,59.48,True
+The Widow,2,Mystery,27.26,True
+Playing with Fire,3,Mystery,13.71,True
+What Happened on Beale Street (Secrets of the South Mysteries #2),5,Mystery,25.37,True
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),5,Mystery,52.3,True
+Delivering the Truth (Quaker Midwife Mystery #1),4,Mystery,20.89,True
+The Mysterious Affair at Styles (Hercule Poirot #1),4,Mystery,24.8,True
+In the Woods (Dublin Murder Squad #1),2,Mystery,38.38,True
+The Silkworm (Cormoran Strike #2),5,Mystery,23.05,True
+The Exiled,3,Mystery,43.45,True
+The Cuckoo's Calling (Cormoran Strike #1),1,Mystery,19.21,True
+Extreme Prey (Lucas Davenport #26),3,Mystery,25.4,True
+Career of Evil (Cormoran Strike #3),2,Mystery,24.72,True
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),4,Mystery,57.7,True
+The Girl You Lost,5,Mystery,12.29,True
+The Girl In The Ice (DCI Erika Foster #1),3,Mystery,15.85,True
+Blood Defense (Samantha Brinkman #1),3,Mystery,20.3,True
+1st to Die (Women's Murder Club #1),1,Mystery,53.98,True
+Mesaerion: The Best Science Fiction Stories 1800-1849,1,Science Fiction,37.59,True
+Join,5,Science Fiction,35.67,True
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",4,Science Fiction,43.3,True
+The Project,1,Science Fiction,10.65,True
+Soft Apocalypse,2,Science Fiction,26.12,True
+Sleeping Giants (Themis Files #1),1,Science Fiction,48.74,True
+Arena,4,Science Fiction,21.36,True
+Foundation (Foundation (Publication Order) #1),1,Science Fiction,32.42,True
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),1,Science Fiction,10.92,True
+Ready Player One,4,Science Fiction,19.07,True
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",2,Science Fiction,33.26,True
+Dune (Dune #1),1,Science Fiction,54.86,True
+Do Androids Dream of Electric Sheep? (Blade Runner #1),1,Science Fiction,51.48,True
+Three Wishes (River of Time: California #1),2,Science Fiction,44.18,True
+The Last Girl (The Dominion Trilogy #1),2,Science Fiction,36.26,True
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),4,Science Fiction,34.96,True
+Chase Me (Paris Nights #2),5,Romance,25.27,True
+Black Dust,5,Romance,34.53,True
+Her Backup Boyfriend (The Sorensen Family #1),1,Romance,33.97,True
+First and First (Five Boroughs #3),4,Romance,15.97,True
+Fifty Shades Darker (Fifty Shades #2),1,Romance,21.96,True
+The Wedding Dress,1,Romance,24.12,True
+Suddenly in Love (Lake Haven #1),2,Romance,55.99,True
+Something More Than This,4,Romance,16.24,True
+Doing It Over (Most Likely To #1),3,Romance,35.61,True
+The Wedding Pact (The O'Malleys #2),3,Romance,32.61,True
+Hold Your Breath (Search and Rescue #1),1,Romance,28.82,True
+Dirty (Dive Bar #1),4,Romance,40.83,True
+Take Me Home Tonight (Rock Star Romance #3),3,Romance,53.98,True
+Off the Hook (Fishing for Trouble #1),3,Romance,47.67,True
+A Gentleman's Position (Society of Gentlemen #3),5,Romance,14.75,True
+"Sit, Stay, Love",3,Romance,20.9,True
+A Girl's Guide to Moving On (New Beginnings #2),1,Romance,31.3,True
+The Perfect Play (Play by Play #1),3,Romance,59.99,True
+Dark Lover (Black Dagger Brotherhood #1),1,Romance,12.87,True
+Changing the Game (Play by Play #2),3,Romance,13.38,True
+A Walk to Remember,1,Romance,56.43,True
+The Purest Hook (Second Circle Tattoos #3),1,Romance,12.25,True
+The Obsession,1,Romance,45.43,True
+Reservations for Two,3,Romance,11.1,True
+Best of My Love (Fool's Gold #20),2,Romance,27.41,True
+Where Lightning Strikes (Bleeding Stars #3),3,Romance,39.77,True
+This One Moment (Pushing Limits #1),1,Romance,48.71,True
+"Rhythm, Chord & Malykhin",2,Romance,28.34,True
+My Perfect Mistake (Over the Top #1),2,Romance,38.92,True
+Listen to Me (Fusion #1),3,Romance,58.99,True
+Imperfect Harmony,4,Romance,34.74,True
+Fighting Fate (Fighting #6),3,Romance,39.24,True
+Deep Under (Walker Security #1),5,Romance,47.09,True
+Charity's Cross (Charles Towne Belles #4),1,Romance,41.24,True
+Bounty (Colorado Mountain #7),4,Romance,37.26,True
+Sapiens: A Brief History of Humankind,5,History,54.23,True
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",1,History,25.52,True
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,1,History,19.73,True
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",2,History,36.28,True
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,1,History,59.64,True
+Zealot: The Life and Times of Jesus of Nazareth,3,History,24.7,True
+A Distant Mirror: The Calamitous 14th Century,3,History,14.58,True
+1491: New Revelations of the Americas Before Columbus,3,History,21.8,True
+Brilliant Beacons: A History of the American Lighthouse,3,History,11.45,True
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",5,History,44.48,True
+A Short History of Nearly Everything,5,History,52.4,True
+The Rise and Fall of the Third Reich: A History of Nazi Germany,2,History,39.67,True
+Catherine the Great: Portrait of a Woman,4,History,58.55,True
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,5,History,42.91,True
+The Hiding Place,4,History,55.91,True
+America's War for the Greater Middle East: A Military History,2,History,51.22,True
+The Guns of August,2,History,14.54,True
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",2,History,43.7,True
+It's Only the Himalayas,2,Travel,45.17,True
+Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,4,Travel,49.43,True
+See America: A Celebration of Our National Parks & Treasured Sites,3,Travel,48.87,True
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,2,Travel,36.94,True
+Under the Tuscan Sun,3,Travel,37.33,True
+A Summer In Europe,2,Travel,44.34,True
+The Great Railway Bazaar,1,Travel,30.54,True
+A Year in Provence (Provence #1),4,Travel,56.88,True
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),1,Travel,23.21,True
+Neither Here nor There: Travels in Europe,3,Travel,38.95,True
+"1,000 Places to See Before You Die",5,Travel,26.08,True

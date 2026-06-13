@@ -2,7 +2,7 @@
 
 ##  Project Overview
 This project was completed as part of the **CodeAlpha Data Analytics Internship**.
-It covers all 4 tasks using a books dataset scraped from books.toscrape.com.
+It covers 3 tasks using a books dataset scraped from books.toscrape.com.
 
 ##  Tasks Completed
 
